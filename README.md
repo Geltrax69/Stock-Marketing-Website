@@ -14,6 +14,15 @@
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?logo=javascript)
 
+## Screenshots
+
+<p align="center">
+  <img src="./screenshot-ui.png" alt="Stock-Marketing-Website UI" width="100%" />
+  <br />
+  <em>Stock dashboard — charts, watchlist, news.</em>
+</p>
+
+
 ## What it is
 
 "Simple Trade" — a multi-page static marketing website for a stock/investment product. Eight pages (home, get started, invest mutual, invest stocks, money, mutual funds, stocks, store) with Montserrat typography, a Lottie hero animation, product imagery, and per-page stylesheets. No build step, no dependencies — plain HTML/CSS/JS you can open or host anywhere.
